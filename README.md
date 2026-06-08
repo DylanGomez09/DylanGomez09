@@ -6,9 +6,6 @@ My focus is **Full-Stack Development** (React, Next.js, TypeScript, Node.js, and
 
 📬 **Connect with me:** [Website](https://www.dylandev.online) | [LinkedIn](https://linkedin.com/in/DylanGómez09) | gomezdylan354@gmail.com
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DylanGómez09) 
-
 ## 💻 Tech Stack:
 <details>
 <summary><b>Click to expand my full tech stack... 🚀</b></summary>
