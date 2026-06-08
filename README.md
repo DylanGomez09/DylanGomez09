@@ -17,7 +17,6 @@ My focus is **Full-Stack Development** (React, Next.js, TypeScript, Node.js, and
 
 ## 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=DylanGomez09&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" />
   <img src="https://streak-stats.demolab.com/?user=DylanGomez09&theme=dark&hide_border=false" height="180" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DylanGomez09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" />
 </p>
