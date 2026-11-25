@@ -5,8 +5,8 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · dylangomez09</sub></p>
 <h1>Dylan Gómez</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Software Engineer (Frontend Specialist) | IT Technician &amp; Computer Engineering Student. Passionate about building efficient, scalable web solutions.</p>
+<h2>Software Engineer</h2>
+<p>Software Engineer &amp; Computer Engineering Student. Passionate about building efficient, scalable web solutions.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Buenos Aires, Argentina</sub></p>
 <p><a href="https://github.com/dylangomez09">GitHub</a> &nbsp;·&nbsp; <a href="https://dylandev.online/">Website</a></p>
